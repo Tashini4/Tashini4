@@ -13,7 +13,7 @@
 
  ## 🧭 &nbsp;About Me
 - 🔭 I’m currently working on **Advance API Development with Spring & Spring-Boot**
-- - 🧑‍🎓 I’m an Undergraduate at **IJSE**
+- 🧑‍🎓 I’m an Undergraduate at **IJSE**
 
 - 🌱 I’m currently learning **Java,Html,Css,Js**
 
